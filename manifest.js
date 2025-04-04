@@ -13,7 +13,7 @@
         "supportedTypes": ["METRIC"]
       }
     ],
-    "script": "https://bmmishra.github.io/community-viz/index.js",
-    "html": "https://bmmishra.github.io/community-viz/index.html"
+    "script": "https://github.com/himUpswing/community_viz/blob/main/index.js",
+    "html": "https://github.com/himUpswing/community_viz/blob/main/index.html"
   }
 })
